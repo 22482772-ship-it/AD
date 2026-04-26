@@ -1,13 +1,13 @@
-package com.example.eva3_ad;
+package com.example.ad_eva3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Eva3AdApplication {
+public class AdEva3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Eva3AdApplication.class, args);
+		SpringApplication.run(AdEva3Application.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.example.eva3_ad;
+package com.example.ad_eva3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Eva3AdApplicationTests {
+class AdEva3ApplicationTests {
 
 	@Test
 	void contextLoads() {
